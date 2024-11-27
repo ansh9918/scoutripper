@@ -211,7 +211,7 @@ const Compare = () => {
             Trekking Community
           </h1>
           <p className="text-xl font-semibold text-white">
-            Don&apos;t Take Trips, Choose Experience
+            Don&apos;t Take Trip, Choose Experience
           </p>
         </div>
       </section>
